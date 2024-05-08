@@ -1,0 +1,5 @@
+
+junit junit * * * *
+org.apache.maven maven-project * * * *
+org.assertj assertj-core * * * *
+org.mockito mockito-core * * * *
