@@ -1,5 +1,31 @@
-template-repository (1.0-1) unstable; urgency=medium
+templating-maven-plugin (1.0.0-2) unstable; urgency=medium
 
-  * Initial release
+  [ Mechtilde ]
+  * [daa23ba] Bumped year in d/copyright
+  * [2616430] Bumped standard version - no changes needed
+  * [9e345fd] Improved d/watch to work correctly
+  * [686f591] Removed wrong entry URL
+  * [e8faa7d] Tried to fix d/watch to get the right new version
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Mechtilde Stehmann <mechtilde@debian.org>  Sun, 26 Mar 2023 15:09:36 +0200
+
+templating-maven-plugin (1.0.0-1) unstable; urgency=medium
+
+  [ Mechtilde ]
+  * [6d1e0c8] Improved year in d/copyright
+  * [07ad5e8] Bumped compat level to 13
+  * [3c6a4aa] Added a better d/watch file
+  * [bd55121] added d/<packae name>.examples to install them to the right place
+  * [43ece6f] Improved d/watch
+  * [f287425] Added buildsystem to d/rules
+
+ -- Mechtilde Stehmann <mechtilde@debian.org>  Fri, 06 Nov 2020 18:05:27 +0100
+
+templating-maven-plugin (1.0.0-1~exp1) experimental; urgency=medium
+
+  [ Mechtilde Stehmann ]
+  * Initial release (Closes: #964492)
+  * [9361870] New upstream version 1.0.0
+  * [aa82431] Built JAR files outside /usr/share/java are for private use
+
+ -- Mechtilde Stehmann <mechtilde@debian.org>  Sun, 12 Jul 2020 08:19:38 +0200

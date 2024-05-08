@@ -1,0 +1,5 @@
+# You can find a description at
+#        https://wiki.debian.org/UpstreamMetadata
+Bug-Database: https://github.com/mojohaus/templating-maven-plugin/issues
+Repository: https://github.com/mojohaus/templating-maven-plugin.git
+Repository-Browse: https://github.com/mojohaus/templating-maven-plugin

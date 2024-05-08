@@ -1,0 +1,6 @@
+#[groupId] [artefactId] [type] [version] [classifier] [scope]
+org.apache.maven maven* * s/.*/3.x/ * *
+org.apache.maven maven-project * s/.*/debian/ * *
+org.apache.maven.plugin maven-invoker-plugin * s/.*/debian/ * *
+org.codehaus.plexus plexus-utils jar s/.*/2.x/ * *
+org.sonatype.plexus plexus-build-api jar s/.*/debian/ * *
